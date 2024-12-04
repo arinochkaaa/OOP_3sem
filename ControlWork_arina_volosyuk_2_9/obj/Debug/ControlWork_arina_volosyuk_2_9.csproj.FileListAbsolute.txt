@@ -1,0 +1,7 @@
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\bin\Debug\ControlWork_arina_volosyuk_2_9.exe.config
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\bin\Debug\ControlWork_arina_volosyuk_2_9.exe
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\bin\Debug\ControlWork_arina_volosyuk_2_9.pdb
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\obj\Debug\ControlWork_arina_volosyuk_2_9.csproj.AssemblyReference.cache
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\obj\Debug\ControlWork_arina_volosyuk_2_9.csproj.CoreCompileInputs.cache
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\obj\Debug\ControlWork_arina_volosyuk_2_9.exe
+D:\3 семм\ООП\ControlWork_arina_volosyuk_2_9\obj\Debug\ControlWork_arina_volosyuk_2_9.pdb
